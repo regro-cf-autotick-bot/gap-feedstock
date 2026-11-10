@@ -11,7 +11,6 @@ source:
   patches:
     - 0001-Allow-cross-building-packages.patch
     - 0002-Do-not-run-prerequisites.sh.patch
-    - 0003-Build-with-planarity-4.patch
 
 build:
   number: 0
